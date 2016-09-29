@@ -4,7 +4,6 @@ body
 	text-align: center;
 	
 }
-
 mark 
 {
     background-color: pink;
@@ -286,7 +285,6 @@ hr.everthingelse
 }
 #bimages8
 {
-    /*background-image: url(./images/abstract-light-wallpaper-8.jpg);*/
     background-image: url(./images/yellow_red_spots_background_abstract_65559_1920x1080.jpg);	
     background-position: right bottom, left top;
     background-repeat: no-repeat, repeat;
@@ -295,7 +293,6 @@ hr.everthingelse
 }
 #bimages9
 {
-    /*background-image: url(./images/abstract-light-wallpaper-8.jpg);*/
     background-image: url(./images/Blue-background-2560x1600wallpapers-pictures-free-download.jpg);	
     background-position: right bottom, left top;
     background-repeat: no-repeat, repeat;
@@ -450,7 +447,6 @@ h1.h1g
 }
 body.gallery
 {
-    /*background-image: url("./images/4.jpg");*/
     background-color: rgb(222,254,254);	
 	text-align: center;	
 }
@@ -770,9 +766,6 @@ li a:hover
     background:	#FF69B4;
     box-shadow: 1px 2px 1px #777;
 }
-/*---------------------------------------------------------------------------------------------------*/
-/*--------------IMAGES-------------------------------------------------------------------------------------*/
-
 /*---------------------------------------------------------------------------------------------------*/
 
 
